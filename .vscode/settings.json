@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "uthread_ctx.h": "c"
+    }
+}
